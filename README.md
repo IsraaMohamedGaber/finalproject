@@ -52,7 +52,7 @@ The logic is implemented through embedded code uploaded into a microcontroller (
 
 ## 🖼️ Visual Output
 
-> Include screenshots here from the simulation showing:
+> https://github.com/user-attachments/assets/2804a1cf-18c2-49bb-bb87-27e03dfc5606
 - Input switches
 - Microcontroller
 - Output display
